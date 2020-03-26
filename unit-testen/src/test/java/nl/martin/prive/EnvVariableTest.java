@@ -21,7 +21,7 @@ public class EnvVariableTest {
     @Test
     @EnabledIfEnvironmentVariable(named = "NUMBER_OF_PROCESSORS", matches = "8")
     void onProcessor8() {
-        System.out.println("Run this if it has 8 processors.");
+        System.out.println("Run this if it has 8  processors.");
     }
 
     @Test
