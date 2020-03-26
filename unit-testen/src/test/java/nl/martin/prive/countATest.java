@@ -10,7 +10,7 @@ class countATest {
 	void test() {
 		Arithmetic ar = new Arithmetic();
 		int output =ar.countA("Arie bom barie");
-		assertEquals(3, output);
+		assertEquals(2, output);
 	}
 
 }

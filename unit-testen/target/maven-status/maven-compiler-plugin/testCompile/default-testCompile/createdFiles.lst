@@ -1,2 +1,7 @@
-nl/martin/prive/squareTest.class
+nl/martin/prive/JreTest.class
 nl/martin/prive/countATest.class
+nl/martin/prive/SystemPropertyTest.class
+nl/martin/prive/MessageServiceTest.class
+nl/martin/prive/EnvVariableTest.class
+nl/martin/prive/squareTest.class
+nl/martin/prive/OperatingSystemTest.class
